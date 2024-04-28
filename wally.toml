@@ -1,0 +1,8 @@
+[package]
+name = "tidusec/array"
+description = "Array class, featuring many familiar methods from JavaScript and more."
+version = "0.4.0"
+license = "MIT"
+authors = ["Runic", "tidusec"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
